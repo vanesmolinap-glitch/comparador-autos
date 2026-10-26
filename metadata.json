@@ -1,0 +1,8 @@
+{
+  "name": "Comparador de Propuestas BN",
+  "description": "Comparador inteligente de propuestas de seguros de automóvil para BN Corredora de Seguros con análisis de pólizas vía IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
